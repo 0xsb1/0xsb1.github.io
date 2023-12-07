@@ -1,0 +1,2385 @@
+{
+    "tbody": {
+      "tr": [
+        {
+          "td": [
+            {
+              "@class": "tablehigh",
+              "#text": "Department Name"
+            },
+            {
+              "@class": "tablehigh",
+              "#text": "Faculty Name"
+            },
+            {
+              "@class": "tablehigh",
+              "#text": "Module Name"
+            },
+            {
+              "@class": "tablehigh",
+              "#text": "Topic Name"
+            },
+            {
+              "@class": "tablehigh",
+              "#text": "Studymaterials"
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Global politics since 1945 (PLSA Sem 4)",
+            "SAFTA",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTY2020-04-13SAFTA.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Global politics since 1945 (PLSA Sem 4)",
+            "SAARC",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTY2020-04-13SAARC.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Comparative Government and Politics (PLSG Sem 2)",
+            "Features of the British Constitution",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYFeatures of the British Constitution2020-04-14Features of the British Constitution.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional Government in India (PLSA Sem 2,)",
+            "Chief Minister",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYChief Minister2020-04-15chief minister.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional Government in India ( PLSA Sem 2)",
+            "Council of Ministers",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYCouncil of Ministers2020-04-15council of ministers.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Global politics since 1945 ( PLSA Sem 4)",
+            "World Bank",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYWorld Bank2020-04-15world bank.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Global politics since 1945 ( PLSA Sem 4)",
+            "Non-Aligned Movement",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYNon-Aligned Movement2020-04-16NAM.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Comparative Government and Politics ( PLSG Sem 2)",
+            "Party system in UK",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYParty system in UK2020-04-21party system in UK.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Western Political Thought and Theory 1 ( PLSA Sem 4)",
+            "Plato on Communism",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYPlato on Communism2020-04-22Plato on communism.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Western Political Thought and Theory 1 ( PLSA Sem 4)",
+            "Plato's Theory of Justice",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYPlatos Theory of Justice2020-04-22Plato on justice.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Western Political Thought and Theory 1 ( PLSA Sem 4)",
+            "Aristotle and the Classification of Constitutions",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYAristotle and the Classification of Constitutions2020-05-03Aristotle and the classification of the constitution.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional Government in India ( PLSA Sem 2)",
+            "Lok Sabha",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYLok Sabha2020-05-11lok sabha.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional Government in India ( PLSA Sem 2)",
+            "Rajya Sabha",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYRajya Sabha2020-05-11rajya sabha.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Global Politics Since 1945 ( PLSA Sem 4)",
+            "European Union",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYEuropean Union2020-05-11european union.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "International Relations ( PLSG Sem 4)",
+            "Dependency Theory",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYDependency Theory2020-05-11dependency theory.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "International Relations ( PLSG Sem 4)",
+            "Suggestions ( MCQ)",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYSuggestions ( MCQ)2020-05-12SUGGESTION PLSG SEM 4.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Comparative Government and Politics ( PLSG Sem 2)",
+            "Suggestions ( MCQ)",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYSuggestions ( MCQ)2020-05-12SUGGESTION PLSG SEM 2.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional Government in India ( PLSA Sem 2)",
+            "Committee system",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYCommittee system2020-05-30PARAMITA_CHAKRABORTYCommittee Systeem2020-05-11committee system.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional Government in India (PLSA Sem 2)",
+            "Parliamentary privileges",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYParliamentary privileges2020-05-30parliamentary privileges.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Legislative practises and procedures ( PLSA, SEC, Sem 4)",
+            "Committee system in Parliament",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYCommittee system in Parliament2020-05-30Committee System in Parliament.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional Government in India ( PLSA Sem 2)",
+            "Suggestions ( MCQ)",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYSuggestions ( MCQ)2020-05-30suggestions PLSA sem 2.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Western Political Thought and Theory 1 ( PLSA Sem 4)",
+            "Machiavelli",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYMachiavelli2020-07-11machiavelli.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Perspectives on International Relations (PLSA Sem 3)",
+            "World System Theory",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYWorld System Theory2021-01-05WORLD SYSTEM THEORY.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Western Political Thought and Theory II ( PLSA Sem 5)",
+            "Hegel on civil society",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYHegel on civil society2021-01-05Civil Society.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Perspectives on International Relations (PLSA Sem 3)",
+            "Dependency Theory",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYDependency Theory2021-01-10andre gunder frank- dependency theory.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Perspectives on International Relations (PLSA Sem 3)",
+            "terrorism in international relations",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYterrorism in international relations2021-01-10terrorism in international relations.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Perspectives on International Relations (PLSA Sem 3)",
+            "Migration",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYMigration2021-01-10migration.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Western Political Thought and Theory II ( PLSA Sem 5)",
+            "Hegel on state",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYHegel on state2021-01-10Hegel on state.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Understanding political theory: Approaches and debates (PLSA Sem 1)",
+            "Mao on revolution",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYMao on revolution2021-01-10MAO ON REVOLUTION.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Understanding political theory: Approaches and debates (PLSA Sem 1)",
+            "Lenin-Luxemburg debate",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYLenin-Luxemburg debate2021-01-10lenin-luxemburg debate.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Understanding political theory: Approaches and debates (PLSA Sem 1)",
+            "democratic centralism",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYdemocratic centralism2021-01-19democratic centralism.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Comparative Government and Politics",
+            "House of Commons",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYHouse of Commons2021-01-24Presentation (21) (1).pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Understanding political theory: Approaches and debates (PLSA Sem 1)",
+            "Liberalism",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYLiberalism2021-02-06Liberalism.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Understanding political theory: Approaches and debates (PLSA Sem 1)",
+            "Gramci's theory of hegemony and civil society",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYGramcis theory of hegemony and civil society2021-02-07gramsci on hegemony and civil society.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Indian foreign policy in a globalizing world (PLSA Sem 5)",
+            "India's position on nuclear weapons",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYIndias position on nuclear weapons2021-02-13nuclear policy and india.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Comparative Government and Politics",
+            "Rights of citizens in UK",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYRights of citizens in UK2021-02-14rights of citizens of UK.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Comparative government and politics",
+            "The UK judiciary",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYThe UK judiciary2021-02-14th UK judiciary.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Comparative government and politics",
+            "Interest groups in UK",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYInterest groups in UK2021-02-20interest groups in UK.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration ( Sem 5, DSE 1A)",
+            "The concept of Hierarchy",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYThe concept of Hierarchy2021-02-23hierarchy.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Democratic Awareness through Legal Literacy (PLSA Sem 3, Sec A-1)",
+            "Right to Information.",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYRight to Information.2021-02-28RTI.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Democratic Awareness through Legal Literacy (PLSA Sem 3, Sec A-1)",
+            "Laws relating to consumer rights.",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYLaws relating to consumer rights.2021-02-28consumer rights.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Political Sociology (Sem 5, PLSA)",
+            "Military and politics: conditions and modes of intervention.",
+            {
+              "a": {
+                "@href": "photo.png",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Introduction to Political Theory (Sem 1, PLSG)",
+            "Lenin's theory of revolution and theoy of imperialism",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYLenins theory of revolution and theoy of imperialism2021-02-28lenin on imperialism and revolution.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Understanding political theory: Concepts (PLSA Sem 1)",
+            "Freedom",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYFreedom2021-03-02freedom.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Perspectives on International Relations (PLSA Sem 3)",
+            "Environment in International relations",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYEnvironment in International relations2021-03-02environment 1.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Perspectives on International Relations (PLSA Sem 3)",
+            "evolution of IR as a discipline",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYevolution of IR as a discipline2021-03-02The Four Stages of Evolution of IR.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Understanding political theory: Concepts (PLSA Sem 1)",
+            "Liberty",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYLiberty2021-03-02liberty.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Understanding political theory: Concepts (PLSA Sem 1)",
+            "Rights",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYRights2021-03-09rights.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Understanding political theory: Concepts (PLSA Sem 1)",
+            "Equality",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYEquality2021-03-09equality.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Understanding political theory: concepts ( PLSA Sem 1)",
+            "Law",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYLaw2021-03-09law.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration (PLSA Sem 6)",
+            "Span of Control",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYSpan of Control2021-04-29span of control.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration (PLSA Sem 6)",
+            "Unity of Command",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYUnity of Command2021-05-04unity of command.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration ( PLSA Sem 6)",
+            "Line and Staff",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYLine and Staff2021-05-04line and staff.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration ( PLSA Sem 6)",
+            "Authority in Administration",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYAuthority in Administration2021-05-06authority.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration ( PLSA Sem 6)",
+            "Decentralization in Administration",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYDecentralization in Administration2021-05-06decentralization.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration ( PLSA Sem 6)",
+            "Centralization in Administration",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYCentralization in Administration2021-05-06centralization.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration ( PLSA Sem 6)",
+            "Delegation of Authority",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYDelegation of Authority2021-05-08delegation.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Human Rights: Theory and Indian Context (PLSG Sem 6)",
+            "United Nations Human Rights Charter",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYUnited Nations Human Rights Charter2021-05-08united nations human rights charter.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration ( PLSA Sem 6)",
+            "Communication in administration",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYCommunication in administration2021-05-15communication in administration.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration ( PLSA Sem 6)",
+            "Leadership",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYLeadership2021-05-15leadership.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Global politics since 1945 ( PLSA Sem 4)",
+            "West Asia and Palestine",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYWest Asia and Palestine2021-05-15west asia and palestine (1).pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Human Rights: Theory and Indian Context (PLSG Sem 6)",
+            "Vienna declaration and program of action",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYVienna declaration and program of action2021-05-22Vienna Declaration and Programme of Action.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Global politics since 1945 ( PLSA Sem 4)",
+            "ASEAN",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYASEAN2021-05-23PARAMITA_CHAKRABORTY2020-04-13ASEAN (2).pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Global politics since 1945 ( PLSA Sem 4)",
+            "OPEC",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYOPEC2021-05-23PARAMITA_CHAKRABORTY2020-04-13OPEC (1).pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Global politics since 1945 ( PLSA Sem 4)",
+            "WTO",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYWTO2021-05-23PARAMITA_CHAKRABORTY2020-05-11the WTO (1).pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Global politics since 1945 ( PLSA Sem 4)",
+            "IMF",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYIMF2021-05-23PARAMITA_CHAKRABORTYIMF2020-05-11IMF (1).pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Global politics since 1945 ( PLSA Sem 4)",
+            "BRICS",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYBRICS2021-05-23PARAMITA_CHAKRABORTY2020-04-13BRICS (1).pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Global politics since 1945 ( PLSA Sem 4)",
+            "Globalization",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYGlobalization2021-05-23PARAMITA_CHAKRABORTYGlobalization2020-04-13globalization (2).pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Global politics since 1945 ( PLSA Sem 4)",
+            "Brexit",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYBrexit2021-05-27brexit.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Legislative practices and procedures ( PLSA, SEC, Sem 4 and PLSA Sem 2))",
+            "Lawmaking procedure",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYLawmaking procedure2021-05-29PARAMITA_CHAKRABORTYLawmaking procedure2020-05-30lawmaking procedure in parliament.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration ( PLSA Sem 6)",
+            "Public and private administration",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYPublic and private administration2021-05-30public and private administration.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration ( PLSA Sem 6)",
+            "Ecology of Public Administration",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYEcology of Public Administration2021-05-30public and private administration.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Global politics since 1945 ( PLSA Sem 4)",
+            "Post cold war era",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYPost cold war era2021-05-30post cold war era.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration ( PLSA Sem 6)",
+            "Good Governance",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYGood Governance2021-06-07good governance.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration ( PLSA Sem 6)",
+            "Impact of liberalization, privatization and globalization on public administration",
+            {
+              "a": {
+                "@href": "photo.png",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional government in India ( PLSA Sem 2)",
+            "Constitutional Amendment",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYConstitutional Amendment2021-06-07constitutional amendment.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Western political thought I ( PLSA Sem 4)",
+            "Aristotle on the state",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYAristotle on the state2021-06-10PARAMITA_CHAKRABORTYAristotle on the State2020-05-03Aristotle on the state (1).pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration ( PLSA Sem 6)",
+            "E- Governance",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYE- Governance2021-06-12e- governance.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration ( PLSA Sem 6)",
+            "Comparative Public Administration",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYComparative Public Administration2021-06-12comparative public administration.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Basic Research Methods (PLSG Sem 6, SEC B2)",
+            "Participant Observation",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYParticipant Observation2021-06-12PARAMITA_CHAKRABORTYParticipant Observation2021-05-29Participant Observation 1.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Basic Research Methods (PLSG Sem 6, SEC B2)",
+            "Pilot Survey",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYPilot Survey2021-06-12Pilot Survey.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Basic Research Methods (PLSG Sem 6, SEC B2)",
+            "Questionnaire",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYQuestionnaire2021-06-15questionnaire.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Elementary Dimensions of Research (PLSG, Sem 4, SEC B1)",
+            "Sampling",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYSampling2021-06-15sampling.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Basic Research Methods (PLSG Sem 6, SEC B2)",
+            "Interview",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYInterview2021-06-22interview 1.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Human Rights: Theory and Indian Context (PLSG Sem 6)",
+            "Indian constitution and rights",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYIndian constitution and rights2021-07-03Right to Equality.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration ( PLSA Sem 6)",
+            "Coordination in public administration",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYCoordination in public administration2021-07-07PARAMITA_CHAKRABORTYCoordination2021-07-03coordination.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Citizenship in a Globalising World (PLSA Sem 6)",
+            "Global Citizenship",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYGlobal Citizenship2021-07-07global citizenship.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Basic research methods ( PLSG Sem 6, SEC B2)",
+            "Suggestions",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYSuggestions2021-07-10PLSG Sem 6.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Human rights theory and practise ( PLSG Sem 6)",
+            "Suggestions",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYSuggestions2021-07-10PLSG Sem 6 DSE.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "International Relations ( PLSG Sem 4)",
+            "Suggestions",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYSuggestions2021-07-10PLSG Sem 4.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Elementary dimensions if research ( PLSG SEC, B1)",
+            "Suggestions",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYSuggestions2021-07-11PLSG Sem 4, SEC.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Comparative government and politics ( PLSG Sem 2)",
+            "Suggestions",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYSuggestions2021-07-11PLSG Sem 2 (1).pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Legislative practise and procedures ( SEC B1)",
+            "Suggestions",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYSuggestions2021-07-12Plsa, sem4, SEC.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Western Political thought I",
+            "Suggestions",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYSuggestions2021-07-12PLSA, Sem 4, WPT.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "International relations",
+            "Suggestions",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYSuggestions2021-07-12PLSA Sem 4.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Scuence",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional government in india",
+            "Suggestions",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYSuggestions2021-07-12plsa, sem 2.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Citizenship in a Globalising World (PLSA Sem 6, DSE B3))",
+            "Suggestions",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYSuggestions2021-07-14Suggestions for PLSA Sem 6, citizenship.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Policy in India (PLSA Sem 6, DSE A3)",
+            "Suggestions",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYSuggestions2021-07-14public policy 1.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration ( PLSA Sem 6)",
+            "Suggestions",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYSuggestions2021-07-14Suggestions for PLSA Sem 6, cc13.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Citizenship in a Globalising World (PLSA Sem 6, DSE B3)",
+            "Global Justice",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYGlobal Justice2021-07-14global justice.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Citizenship in a globalizing world (PLSA Sem 6, BSE B3)",
+            "Suggestions",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYSuggestions2021-07-15citizenship.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Policy in India (PLSA Sem 6, DSE A3)",
+            "Theories of state",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYTheories of state2021-07-16A sudden upsurge of interest in.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Policy in India (PLSA Sem 6, DSE A3)",
+            "The concept of public policy",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYThe concept of public policy2021-07-16Public Policy 2.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Comparative Politics ( PLSA Sem 3)",
+            "UK Committee System",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYUK Committee System2021-09-24UK Committee system 1.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Understanding the legal system (PLSG Sem 5, SEC A2)_",
+            "The Representation of the People Act: 1950",
+            {
+              "a": {
+                "@href": "photo.png",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Understanding the legal system (PLSG Sem 5, SEC A2)",
+            "The Representation of the People Act: 1951",
+            {
+              "a": {
+                "@href": "photo.png",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Legal Literacy (PLSG, Sem 3, SEC A1)",
+            "TADA, 1987",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYTADA, 19872021-09-25TERRORIST AND DISRUPTIVE ACTIVITIES.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Indian foreign policy in a globalizing world (PLSA Sem 5)",
+            "Rupee-Rouble Trade",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYRupee-Rouble Trade2021-10-11rupee rouble trade.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Politcal Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Western Political Thought and Theory II ( PLSA Sem 5)",
+            "Frankfurt School",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYFrankfurt School2021-10-12frankfurt school.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Indian foreign policy in a globalizing world (PLSA Sem 5)",
+            "India's Trade Policy",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYIndias Trade Policy2021-10-13trade policy.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Understanding the legal system (PLSG Sem 5, SEC A2)",
+            "The Delimitation Act",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYThe Delimitation Act2021-10-13delimitation act, 2002.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Perspectives on International Relations (PLSA Sem 3)",
+            "Development",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYDevelopment2021-10-27development.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional Government in India (PLSA Sem 2)",
+            "National commission to review the working of the constitution",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYNational commission to review the working of the constitution2022-04-10NCRWC.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Legislative practices and procedures ( PLSA, SEC, Sem 4)",
+            "Estimates Committee",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYEstimates Committee2022-04-10estimates committee.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Legislative practices and procedures ( PLSA, SEC, Sem 4)",
+            "Public Accounts Committee",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYPublic Accounts Committee2022-04-11PAC.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration ( PLSA Sem 6)",
+            "Decision Making Theory",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYDecision Making Theory2022-04-18Decision making theory 1.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Policy in India (PLSA Sem 6, DSE A3)",
+            "Role of Media in Public Policy",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYRole of Media in Public Policy2022-04-27role of media in public policy.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Government and Politics in India",
+            "Constitutional Amendment Procedure",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYConstitutional Amendment Procedure2022-11-05Constitutional Amendment Procedure.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Government and Politics in India (PLSG Sem 3)",
+            "Parliamentary Privileges",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYParliamentary Privileges2022-11-05PARAMITA_CHAKRABORTYParliamentary privileges2020-05-30parliamentary privileges.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Government and Politics in India (PLSG Sem 3)",
+            "Law Making Procedure (Ordinary Bill)",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYLaw Making Procedure2022-11-05PARAMITA_CHAKRABORTYLawmaking Procedure2020-04-15lawmaking procedure in parliament.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Government and Politics in India (PLSG Sem 3)",
+            "Committee System",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYCommittee System2022-11-05PARAMITA_CHAKRABORTYCommittee system2020-05-30PARAMITA_CHAKRABORTYCommittee Systeem2020-05-11committee system.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Indian foreign policy in a globalizing world",
+            "India and G20",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYIndia and G202022-11-18g 20.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Introduction to Political Theory (Sem 1, PLSG)",
+            "liberty-equality relationship",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYliberty-equality relationship2022-11-23PARAMITA_CHAKRABORTYLiberty-Equality Relationship2021-12-20Liberty and equality relationship.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Perspectives on International Relations (PLSA Sem 3)",
+            "Neo-Realism",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYNeo-Realism2022-11-28PARAMITA_CHAKRABORTYNeo-Realism2021-10-31Neo Realism.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Perspectives on International Relations (PLSA Sem 3)",
+            "Realism",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYRealism2022-11-28realism.docx.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Comparative Government and Politics (PLSG Sem 2)",
+            "The Crown",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYThe Crown2023-03-27PARAMITA_CHAKRABORTYThe Crown2020-04-16the crown (1).pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional Government in India (PLSA Sem 2)",
+            "Lawmaking Procedure",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYLawmaking Procedure2023-03-30PARAMITA_CHAKRABORTYLawmaking Procedure2020-04-15lawmaking procedure in parliament.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional Government in India (PLSA Sem 2)",
+            "Passage of Money Bill",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYPassage of Money Bill2023-04-01PARAMITA_CHAKRABORTYPassage of Money Bill2023-03-31PARAMITA_CHAKRABORTYLegislative Procedure_ Money Bill2021-10-04money bill passage.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional Government in India (PLSA Sem 2)",
+            "Speaker",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYSpeaker2023-04-01PARAMITA_CHAKRABORTYSpeaker2020-05-11speaker.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Comparative Government and Politics (PLSG Sem 2",
+            "the house of Lords",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYthe house of Lords2023-04-03PARAMITA_CHAKRABORTYHouse of Lords2020-04-14house of lords.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional Government in India (PLSA Sem 2)",
+            "Constitutional Amendment Procedure",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYConstitutional Amendment Procedure2023-04-06Amendment Procedure of the Indian Constituion.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Policy in India (PLSA Sem 6, DSE A3)",
+            "Public Policy and the Welfare State",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYPublic Policy and the Welfare State2023-04-10public policy and welfare state.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Comparative Government and Politics (PLSG Sem 2",
+            "House of Commons",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYHouse of Commons2023-04-13PARAMITA_CHAKRABORTYHouse of Commons2021-01-24Presentation (21) (1).pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Policy in India (PLSA Sem 6, DSE A3)",
+            "Public Policy and the Neo liberal State",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYPublic Policy and the Neo liberal State2023-04-13Neoliberalism is a policy model.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional Government in India (PLSA Sem 2)",
+            "Supreme Court",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYSupreme Court2023-04-13PARAMITA_CHAKRABORTYSupreme Court2020-05-11supreme court.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Policy in India (PLSA Sem 6, DSE A3)",
+            "Actors in Public Policy",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYActors in Public Policy2023-04-17Actors in Public Policy.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Comparative Government and Politics (PLSG Sem 2)",
+            "Prime Minister of UK",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYPrime Minister of UK2023-04-21PARAMITA_CHAKRABORTYPrime Minister of UK2020-04-21prime minister of UK.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration ( PLSA Sem 6)",
+            "Nature and scope of public administration",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYNature and scope of public administration2023-04-21PARAMITA_CHAKRABORTYNature and scope of public administration2021-05-31nature and scope of public administration.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Global politics since 1945 ( PLSA Sem 4) and International Relations ( PLSG Sem 4)",
+            "Cold War",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYCold War2023-04-22PARAMITA_CHAKRABORTYCold War2020-05-12cold war.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration ( PLSA Sem 6)",
+            "Evolution of Public Administration",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYEvolution of Public Administration2023-04-22PARAMITA_CHAKRABORTYEvolution of public administration2021-05-31evolution of public administration.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Global politics since 1945 ( PLSA Sem 4) and International Relations ( PLSG Sem 4)",
+            "Post Cold War",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYPost Cold War2023-04-23post cold war.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Comparative Government and Politics (PLSG Sem 2)",
+            "Features of British Constitution",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYFeatures of British Constitution2023-04-23British Constitution is unwritten.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional Government in India (PLSA Sem 2)",
+            "High Court",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYHigh Court2023-04-27PARAMITA_CHAKRABORTYHigh Court2020-04-16high court.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional Government in India (PLSA Sem 2)",
+            "Judicial Review and Activism",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYJudicial Review and Activism2023-04-29PARAMITA_CHAKRABORTYJudicial Review2020-04-16judicial review.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Comparative Government and Politics (PLSG Sem 2)",
+            "British cabinet system",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYBritish cabinet system2023-05-02PARAMITA_CHAKRABORTYCabinet system in the UK2020-04-16cabinet system in the UK.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Comparative Government and Politics (PLSG Sem 2)",
+            "Cabinet Dictatorship",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYCabinet Dictatorship2023-05-02PARAMITA_CHAKRABORTYCabinet Dictatorship2020-04-14cabinet dictatorship.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional Government in India (PLSA Sem 2)",
+            "Governor",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYGovernor2023-05-03PARAMITA_CHAKRABORTYGovernor2020-05-11governor.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Comparative Government and Politics (PLSG Sem 2)",
+            "Rule of Law",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYRule of Law2023-05-03Dicey.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional Government in India (PLSA Sem 2)",
+            "Legislative Assembly",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYLegislative Assembly2023-05-06PARAMITA_CHAKRABORTYLegislative Assembly2020-04-15legislative assembly.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional Government in India (PLSA Sem 2)",
+            "Legislattive Council",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYLegislattive Council2023-05-06State Legislative Council (1).pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Comparative Government and Politics (PLSG Sem 2)",
+            "Conventions",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYConventions2023-05-111683815282516_PARAMITA_CHAKRABORTYConventions in UK2020-04-13conventions (1).pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional Government in India (PLSA Sem 2)",
+            "Committee system",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYCommittee system2023-05-111683788758849_PARAMITA_CHAKRABORTYCommittee System2022-11-05PARAMITA_CHAKRABORTYCommittee system2020-05-30PARAMITA_CHAKRABORTYCommittee Systeem2020-05-11committee system.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Constitutional Government in India (PLSA Sem 2)",
+            "Chief Minister",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTY2023-05-12PARAMITA_CHAKRABORTYChief Minister2020-04-15chief minister.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Public Administration ( PLSA Sem 6)",
+            "New Public Administration",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYNew Public Administration2023-05-12PARAMITA_CHAKRABORTYNew Public Administration2021-07-03new public administration.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Elementary Dimensions of Research ( PLSG, Sem 4,SEC B1)",
+            "Qualitative and quantitative data",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYQualitative and quantitative data2023-06-131686641370806_PARAMITA_CHAKRABORTYQuantitative and qualitative data in research2021-07-07Qualitative and quantitative data.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Equality",
+            "Equality",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYEquality2023-10-10equality.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "Dr. PAROMITA CHAKRABORTY (HOD)",
+            "Liberty",
+            "Liberty",
+            {
+              "a": {
+                "@href": "upload/PARAMITA_CHAKRABORTYLiberty2023-10-10liberty.pptx",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }

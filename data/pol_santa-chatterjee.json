@@ -1,0 +1,1845 @@
+{
+    "tbody": {
+      "tr": [
+        {
+          "td": [
+            {
+              "@class": "tablehigh",
+              "#text": "Department Name"
+            },
+            {
+              "@class": "tablehigh",
+              "#text": "Faculty Name"
+            },
+            {
+              "@class": "tablehigh",
+              "#text": "Module Name"
+            },
+            {
+              "@class": "tablehigh",
+              "#text": "Topic Name"
+            },
+            {
+              "@class": "tablehigh",
+              "#text": "Studymaterials"
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "Indian Political Thought",
+            "Syed Ahmed Khan on Colonial Rule and Modernity",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEESyed Ahmed Khan on Colonial Rule and Modernity2020-04-03IMG_20200330_102202.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "Indian Political Thought",
+            "Syed Ahmed Khan-pg 2",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEESyed Ahmed Khan-pg 22020-04-03IMG_20200330_102453.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "Indian Political Thought",
+            "Syed Ahmed Khan-pg 3",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEESyed Ahmed Khan-pg 32020-04-03IMG_20200330_102628.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "Indian Political Thought",
+            "Jayprakash Narayan: Views on Socialism",
+            {
+              "a": {
+                "@href": "photo.png",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "Indian Political Thought",
+            "Jayprakash Narayan - Pg 2",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEJayprakash Narayan - Pg 22020-04-03IMG_20200403_114218.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "Indian Political Thought",
+            "Jayprakash Narayan Pg 3",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEJayprakash Narayan Pg 32020-04-03IMG_20200403_114328.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "Indian Political Thought",
+            "Jayprakash Narayan Pg 4",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEJayprakash Narayan Pg 42020-04-03IMG_20200403_114444.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "Constitutional Government in India",
+            "Centre - State Relation",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEECentre - State Relation2020-04-07IMG_20200331_120303.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "Constitutional Government in India",
+            "Centre State Relation Pg 2",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEECentre State Relation Pg 22020-04-07IMG_20200331_120414.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "Constitutional Government in India",
+            "Centre-State Relation Pg 3",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEECentre-State Relation Pg 32020-04-07IMG_20200331_120808.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "Constitutional Government in India",
+            "Centre State Relation Pg 4",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEECentre State Relation Pg 42020-04-07IMG_20200331_121030.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "Constitutional Govt",
+            "Centre State Relation Pg 5",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEECentre State Relation Pg 52020-04-07IMG_20200331_121211.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "Constitutional Governance",
+            "Centre State Relation Pg 6",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEECentre State Relation Pg 62020-04-07IMG_20200331_121305.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-2-3",
+            "Administrative Relations P1",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEAdministrative Relations P12020-04-08IMG_20200408_104950.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-CC-2-3",
+            "Administrative Relations P2",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEAdministrative Relations P22020-04-08IMG_20200408_110131.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-CC-2-3",
+            "Administrative Relations P3",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEAdministrative Relations P32020-04-08IMG_20200408_111428.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-CC-2-3",
+            "Administrative Relations P3",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEAdministrative Relations P32020-04-08IMG_20200408_111428.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-CC-2-3",
+            "Administrative Relations P-5",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEAdministrative Relations P-52020-04-08IMG_20200408_112334.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-CC--2-3",
+            "Administrative Relations P-6",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEAdministrative Relations P-62020-04-08IMG_20200408_112737.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Centre-State Financial Relatios",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEECentre-State Financial Relatios2020-04-11IMG_20200411_103532.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Centre-State Financial Relatios P-1",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEECentre-State Financial Relatios P-12020-04-11IMG_20200411_101010.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Centre-State Financial Relatios P-2",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEECentre-State Financial Relatios P-22020-04-11IMG_20200411_103955.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Centre-State Financial Relatios p-3",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEECentre-State Financial Relatios p-32020-04-11IMG_20200411_104141.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Centre-State Financial Relatios p-4",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEECentre-State Financial Relatios p-42020-04-11IMG_20200411_104339.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Centre-State Financial Relatios p-5",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEECentre-State Financial Relatios p-52020-04-11IMG_20200411_104508.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A- CC-4-8",
+            "Rammonohar Lohia's views on Socialism",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERammonohar Lohias views on Socialism2020-04-11IMG_20200411_120910.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A CC-4-8",
+            "Rammonohar Lohia's views on Socialism p-2",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERammonohar Lohias views on Socialism p-22020-04-11IMG_20200411_120353.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-CC-4-8",
+            "Rammonohar Lohia's view's on Socialism p-3",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERammonohar Lohias views on Socialism p-32020-04-11IMG_20200411_121456.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-CC-4-8",
+            "Rammonohar Lohia's views on Socialism p-4",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERammonohar Lohias views on Socialism p-42020-04-11IMG_20200411_121822.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-CC-4-8",
+            "Rammonohar Lohia's views on Socialism p-5",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERammonohar Lohias views on Socialism p-52020-04-11IMG_20200411_122335.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A CC-4-8",
+            "Rammonohar Lohia's views on Socialism p-6",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERammonohar Lohias views on Socialism p-62020-04-11IMG_20200411_122758.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Indian Citizenship",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEIndian Citizenship2020-04-18IMG_20200418_091347.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Indian Citizenship P-2",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEIndian Citizenship P-22020-04-18IMG_20200418_091411.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Indian Citizenship p-3",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEIndian Citizenship p-32020-04-18IMG_20200418_091543.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Indian Citizenship P-4",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEIndian Citizenship P-42020-04-18IMG_20200418_092731.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Indian Citizenship P-5",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEIndian Citizenship P-52020-04-18IMG_20200418_093245.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Indian Citizenship P-6",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEIndian Citizenship P-62020-04-18IMG_20200418_093417.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Indian Citizenship P-7",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEIndian Citizenship P-72020-04-18IMG_20200418_094704.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Indian Citizenship P-8",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEIndian Citizenship P-82020-04-18IMG_20200418_094742.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-10",
+            "Rousseau on Freedom P-1",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERousseau on Freedom P-12020-04-22IMG_20200422_093526.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-10",
+            "Rousseau on Freedom P-2",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERousseau on Freedom P-22020-04-22IMG_20200422_093657.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-10",
+            "Rousseau on Freedom P--3",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERousseau on Freedom P--32020-04-22IMG_20200422_094555.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-10",
+            "Rousseau on Freedom P-4",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERousseau on Freedom P-42020-04-22IMG_20200422_094753.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-10",
+            "Rousseau on Democracy P-1",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERousseau on Democracy P-12020-04-27IMG_20200427_111200.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-10",
+            "Rousseau on Democracy P-2",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERousseau on Democracy P-22020-04-27IMG_20200427_111312.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-10",
+            "Rousseau on Democracy P-3",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERousseau on Democracy P-32020-04-27IMG_20200427_111407.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-10",
+            "Rousseau on Democracy P-4",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERousseau on Democracy P-42020-04-27IMG_20200427_111441.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-CC-2-3",
+            "Directive Principles of State Policy P-1",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEDirective Principles of State Policy P-12020-04-27IMG_20200427_113846.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-3",
+            "Directive Principles of State Policy P-2",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEDirective Principles of State Policy P-22020-04-27IMG_20200427_114016.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-- 3",
+            "Directive Principles of State Policy P-3",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEDirective Principles of State Policy P-32020-04-27IMG_20200427_114129.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC--3",
+            "Directive Principles of State Policy P-4",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEDirective Principles of State Policy P-42020-04-27IMG_20200427_114230.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-3",
+            "Directive Principles of State Policy P-5",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEDirective Principles of State Policy P-52020-04-27IMG_20200427_114309.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-3",
+            "Fundamental Duties of Indian Citizens",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEFundamental Duties of Indian Citizens2020-04-27IMG_20200427_121151.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-3",
+            "Fundamental Duties P-2",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEFundamental Duties P-22020-04-27IMG_20200427_121316.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-CC-2-3",
+            "Nature of the Executive in India P-1",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEENature of the Executive in India P-12020-04-27IMG_20200427_204228.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Executive in India P-2",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEExecutive in India P-22020-04-27IMG_20200427_204343.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-CC-2-3",
+            "Executive in India P-3",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEExecutive in India P-32020-04-27IMG_20200427_204437.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-2-3",
+            "Executive in India P-4",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEExecutive in India P-42020-04-27IMG_20200427_204512.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-2-3",
+            "Executive in India P-5",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEExecutive in India P-52020-04-27IMG_20200427_204652.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-2-3",
+            "Executive in India P-6",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEExecutive in India P-62020-04-27IMG_20200427_204752.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-2-3",
+            "Executive in India P-7",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEExecutive in India P-72020-04-27IMG_20200427_204842.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-2-3",
+            "Executive in India P-8",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEExecutive in India P-82020-04-27IMG_20200427_204910.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-2-3",
+            "Fundamental Right:Right to EqualityP-1",
+            {
+              "a": {
+                "@href": "photo.png",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-2-3",
+            "Right to Equality P-2",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERight to Equality P-22020-04-28IMG_20200428_095431.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-2-3",
+            "Right to Equality P-3",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERight to Equality P-32020-04-28IMG_20200428_095714.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Right to Equality P-4",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERight to Equality P-42020-04-28IMG_20200428_100926.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Right to Equality P-5",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERight to Equality P-52020-04-28IMG_20200428_101022.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Right to Equality P-6",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERight to Equality P-62020-04-28IMG_20200428_101104.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Right to Freedom P-1",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERight to Freedom P-12020-04-28IMG_20200428_102535.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Right to Freedom P-2",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERight to Freedom P-22020-04-28IMG_20200428_102607.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Right to Freedom P-3",
+            {
+              "a": {
+                "@href": "photo.png",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Right to Freedom P-4",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERight to Freedom P-42020-04-28IMG_20200428_144338.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Right to Freedom P-5",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERight to Freedom P-52020-04-28IMG_20200428_145153.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Right to Freedom P-6",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERight to Freedom P-62020-04-28IMG_20200428_145241.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Right to Freedom P-7",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERight to Freedom P-72020-04-28IMG_20200428_145339.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Right to Freedom P-8",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERight to Freedom P-82020-04-28IMG_20200428_150246.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Right to Freedom P-9",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERight to Freedom P-92020-04-28IMG_20200428_150130.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Right to Freedom P-10",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERight to Freedom P-102020-04-28IMG_20200428_150246.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Right to Freedom P-11",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERight to Freedom P-112020-04-28IMG_20200428_150351.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Right to Freedom of Religion P-1",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERight to Freedom of Religion P-12020-04-28IMG_20200428_151238.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Freedom of Religion P-2",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEFreedom of Religion P-22020-04-28IMG_20200428_151316.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLA-S CC-2-3",
+            "Freedom of Religion P-3",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEFreedom of Religion P-32020-04-28IMG_20200428_151340.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-G-2-2",
+            "Political Systems..Liberal-democratic,Socialist,Authoritarian",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEPolitical Systems..Liberal-democratic,Socialist,Authoritarian2020-05-06IMG_20200506_144008.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-G-2-2",
+            "Political Systems",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEPolitical Systems2020-05-06IMG_20200506_144101.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-G-CC-2-2",
+            "Political Systems",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEPolitical Systems2020-05-06IMG_20200506_144131.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-G-CC-2-2",
+            "Political Systems",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEPolitical Systems2020-05-06IMG_20200506_144131.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-G-CC-2-2",
+            "Political Systems",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEPolitical Systems2020-05-06IMG_20200506_144201.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-G-CC-2-2",
+            "Political Systems",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEPolitical Systems2020-05-06IMG_20200506_144246.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-G-CC-2-2",
+            "Forms of Political Systems:Unitary &amp; Federal P-1",
+            {
+              "a": {
+                "@href": "photo.png",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-2-2",
+            "Unitary &amp; Federal Systems -P-2",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEUnitary &amp;amp; Federal Systems -P-22020-05-07IMG_20200507_202029.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-2-2",
+            "Unitary &amp; Federal Systems-P-3",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEUnitary &amp;amp; Federal Systems-P-32020-05-07IMG_20200507_202056.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-2-2",
+            "Unitary &amp; Federal Systems-P-3",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEUnitary &amp;amp; Federal Systems-P-32020-05-07IMG_20200507_202056.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-2-2",
+            "Unitary and Federal -P-4",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEUnitary and Federal -P-42020-05-07IMG_20200507_202126.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-G-CC-2-2",
+            "Presidential and Parliamentary System P-1",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEPresidential and Parliamentary System P-12020-05-11IMG_20200511_093820.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-2-2",
+            "Presidential and Parliamentary System P-2",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEPresidential and Parliamentary System P-22020-05-11IMG_20200511_093850.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-2-2",
+            "Presidential and Parliamentary System P-3",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEPresidential and Parliamentary System P-32020-05-11IMG_20200511_094025.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-2-2",
+            "Presidential and Parliamentary System P-4",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEPresidential and Parliamentary System P-42020-05-11IMG_20200511_100248.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-2-2",
+            "Presidential Parliamentary System P-5",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEPresidential Parliamentary System P-52020-05-11IMG_20200511_100410.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-2-2",
+            "Presidential and Parliamentary System P-6",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEPresidential and Parliamentary System P-62020-05-11IMG_20200511_100445.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-2-2",
+            "Presidential and Parliamentary System P-7",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEPresidential and Parliamentary System P-72020-05-11IMG_20200511_101448.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-2-2",
+            "Presidential Parliamentary System P-8",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEPresidential Parliamentary System P-82020-05-11IMG_20200511_101651.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC -2-2",
+            "Presidential and Parliamentary System P-9",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEPresidential and Parliamentary System P-92020-05-11IMG_20200511_101757.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A -4- SEC",
+            "Power and Privileges of Members of Parliament",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEPower and Privileges of Members of Parliament2020-05-14IMG_20200514_093652.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-4-SEC",
+            "Privileges of M.Ps -P-2",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEPrivileges of M.Ps -P-22020-05-14IMG_20200514_094001.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-4-SEC",
+            "Privileges of M.Ps P-3",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEPrivileges of M.Ps P-32020-05-14IMG_20200514_094233.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLS-A-4 -SEC",
+            "Privileges of M.Ps P-4",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEPrivileges of M.Ps P-42020-05-14IMG_20200514_094254.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLSG-CC-2-2",
+            "Salient Features of the Constitution of France P-1",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEESalient Features of the Constitution of France P-12020-06-06IMG_20200602_092310.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLSG-CC2-2",
+            "Constitution of France",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEConstitution of France2020-06-06IMG_20200602_092454.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLSG-CC-2-2",
+            "Constitution of France P-3",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEConstitution of France P-32020-06-06IMG_20200602_092647.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLSG-CC-2-2",
+            "Constitution of France P-4",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEConstitution of France P-42020-06-06IMG_20200602_092754.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLSG-CC-2-2",
+            "Constitution of France P-5",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEConstitution of France P-52020-06-06IMG_20200602_092822.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLSG-CC-2-2",
+            "Constitution of Bangladesh:Features P-1",
+            {
+              "a": {
+                "@href": "photo.png",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLSG-CC-2-2",
+            "Constitution of Bangladesh P-2",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEConstitution of Bangladesh P-22020-06-08IMG_20200608_210520.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLSG-CC-2-2",
+            "Constitution of Bangladesh P-3",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEConstitution of Bangladesh P-32020-06-08IMG_20200608_210608.jpg",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLSA CC-4-10",
+            "Rousseau on Freedom",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEERousseau on Freedom2021-07-17Rousseau on freedomAdobe Scan 16-Jul-2021 (1).pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "CC-4-8",
+            "MCQ on IPT",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEMCQ on IPT2021-07-18 MCQ..PLSA ..CC..4..8Adobe Scan 18 Jul 2021 (1).pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLSG-CC-2-2",
+            "MCQ on Comprtv Govt and Politics",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEMCQ on Comprtv Govt and Politics2021-07-18 MCQ..PLSG CC 2 2.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLSA CC 5- 11",
+            "Scientific Socialism",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEScientific Socialism2021-10-09Scientific SocialismAdobe Scan 09-Oct-2021.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLSA CC 5- 11",
+            "Socialism..Utopian and Scientific",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEESocialism..Utopian and Scientific2021-10-10Socialism..Utopian and Scientific.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLSA CC 5- 11",
+            "Anarchism",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEAnarchism2021-10-10Anarchism.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        },
+        {
+          "td": [
+            "Political Science",
+            "SHANTA CHATTERJEE",
+            "PLSA CC 5- 11",
+            "Fabianism",
+            {
+              "a": {
+                "@href": "upload/SANTA_CHATTERJEEFabianism2021-10-10Fabianism.pdf",
+                "@target": "_blank",
+                "#text": "CLICK HERE TO VIEW"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }

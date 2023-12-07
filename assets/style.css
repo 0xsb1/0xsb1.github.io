@@ -1,0 +1,61 @@
+.container {
+    margin: auto;
+    max-width: 800px;
+    font-family: sans-serif;
+}
+
+.header {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.teacher-name {
+    margin-top: 10px;
+    font-size: 20px;
+    color: darkorange;
+}
+
+.teachers {
+    margin-top: 30px;
+}
+
+.teachers a {
+    text-decoration: none;
+}
+
+.teacher {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 7px;
+    border: 1px solid grey;
+    color: black;
+}
+
+.files {
+    margin-top: 30px;
+}
+
+.box {
+    padding: 10px;
+    border-radius: 7px;
+}
+.box a {
+    text-decoration: none;
+    color: black;
+}
+
+.file {
+    margin-bottom: 20px;
+    border-radius: 7px;
+    border: 1px solid grey;
+}
+
+.file:nth-child(even) {
+    background: #d7f3f5;
+}
+
+.module {
+    font-weight: bold;
+}
